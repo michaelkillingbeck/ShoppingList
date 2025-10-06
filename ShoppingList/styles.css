@@ -1,7 +1,15 @@
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-image: linear-gradient(to bottom left, 
+        rgba(218, 25, 215, 0.2) , 
+        rgba(50, 4, 70, 0.45));
+}
+
+h1 {
+    text-align: center;
 }
 
 .bought {
+    color: rgba(229, 76, 45, 0.25);
     text-decoration: line-through;
 }
